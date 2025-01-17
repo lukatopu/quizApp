@@ -1,0 +1,15 @@
+.quizContainer {
+ border: 2px solid black;
+ width: 50vw;
+ height: 60vh;
+ min-height: 400px;
+ padding: 20px;
+  .scoreContainer {
+   width: 100%;
+   border-bottom: 3px solid black;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding-bottom: 1vw;
+  }
+}

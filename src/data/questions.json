@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "question": "What is the capital of Haryana?",
+        "options": ["Yamunanagar", "Panipat", "Gurgaon", "Chandigarh"],
+        "answer": "Chandigarh",
+        "points": 10
+    },
+    {
+        "id": 2,
+        "question": "What is the capital of Punjab?",
+        "options": ["Patiala", "Ludhiana", "Amritsar", "Chandigarh"],
+        "answer": "Chandigarh",
+        "points": 10
+    },
+    {
+        "id": 3,
+        "question": "What is the capital of India?",
+        "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+        "answer": "Delhi",
+        "points": 15
+    },
+    {
+        "id": 4,
+        "question": "What is the capital of Uttarakhad?",
+        "options": ["Roorkee", "Haridwar", "Dehradun", "Nanital"],
+        "answer": "Dehradun",
+        "points": 15
+    },
+    {
+        "id": 5,
+        "question": "What is capital of Uttar Pradesh?",
+        "options": ["GB Nagar", "Lucknow", "Prayagraj", "Agra"],
+        "answer": "Lucknow",
+        "points": 20
+    }
+]

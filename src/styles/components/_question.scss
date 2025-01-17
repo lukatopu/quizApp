@@ -1,0 +1,56 @@
+.questionsContainer {
+ width: 100%;
+ margin-top: 1.5vw;
+
+ .possibleAnswersContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.5vw;
+  margin-top: 1vw;
+
+
+  button{
+   font-size: 19px;
+   background-color: transparent;
+   border: 2px solid black;
+   text-align: left;
+   padding: 10px;
+   cursor: pointer;
+  }
+
+ }
+
+ .nextContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5vw;
+  
+
+  .nextButton {
+   padding: 11px 55px ;
+   background-color: #8A2BE2;
+   border: none;
+   color: white;
+   cursor: pointer;
+  }
+ }
+
+
+ p {
+  font-size: 20px;
+ }
+
+ .questionCounter {
+  font-size: 18px;
+  color: rgb(98, 97, 97);
+  margin-top: 0.5vw;
+  text-align: center;
+ }
+
+ .nextButton:disabled {
+  cursor:default;
+  background-color: #ccc;
+}
+ 
+}
